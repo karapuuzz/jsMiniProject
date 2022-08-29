@@ -1,0 +1,31 @@
+.div {
+    background: rgba(173, 196, 211);
+    border-radius: 10px;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.buttonDiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+.button {
+    width: 90%;
+    height: 30px;
+}
+.postsDiv {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.postTitle {
+    background: rgba(173, 196, 211);
+    width: 19.4%;
+    height: 150px;
+    margin: 0.3%;
+    border-radius: 10px;
+    text-align: center;
+}

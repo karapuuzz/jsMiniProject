@@ -1,0 +1,18 @@
+.postInfo{
+    background: rgba(189, 182, 166);
+    text-align: center;
+    border-radius: 10px;
+    height: 100px;
+    padding-top:1px;
+}
+.commentsInfo{
+    background: rgba(165, 175, 167);
+    width: 24.5%;
+    margin: 0.25%;
+    text-align: center;
+    border-radius: 10px;
+}
+.commentsInfoDiv{
+    display: flex;
+    flex-wrap: wrap;
+}
